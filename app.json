@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SpeerAssesmentReactNative",
-    "slug": "SpeerAssesmentReactNative",
+    "slug": "speer-assesment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ed5944e5-5de3-4ddd-a342-04e0800c857b"
+      }
+    },
+    "owner": "nrvjj008"
   }
 }
