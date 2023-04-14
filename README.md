@@ -1,12 +1,12 @@
 Description:-
 - The App uses GitHub REST APIs to search a user and displays their profile, followers and following. 
 
-There are three Screens,
+<strong>Screens:</strong>
 1) Home Screen : takes input of username and dispays the Github Profile if exist
 2) UserList Screen : displays list of followers/following
 3) Profile Screen : displays the profile when a user from follower/following list is clicked.
 
-Steps to run the code(Android):-
+<strong>Steps:</strong>
 1) npm install
 2) npx expo start --android
 
