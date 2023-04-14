@@ -1,4 +1,5 @@
-Description:-
+<strong>Description:</strong>
+
 - The App uses GitHub REST APIs to search a user and displays their profile, followers and following. 
 
 <strong>Screens:</strong>
